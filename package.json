@@ -1,5 +1,5 @@
 {
-  "name": "ftpd",
+  "name": "ftpd-with-reset",
   "version": "0.2.14",
   "description": "Node FTP Server",
   "main": "./ftpd.js",
