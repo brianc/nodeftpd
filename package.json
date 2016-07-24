@@ -1,6 +1,6 @@
 {
   "name": "ftpd-with-reset",
-  "version": "0.2.16",
+  "version": "0.2.17",
   "description": "Node FTP Server",
   "main": "./ftpd.js",
   "engines": {
